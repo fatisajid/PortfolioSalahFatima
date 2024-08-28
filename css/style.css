@@ -119,6 +119,10 @@ b{
     line-height: 1.5rem; /*espace entre les ligne*/
     font-size: 13px;
 }
+
+#experience p:hover{
+    border: 3px solid #ff0059;
+}
 #experience h1{
     color: #ff0059;
     font-style: italic;
